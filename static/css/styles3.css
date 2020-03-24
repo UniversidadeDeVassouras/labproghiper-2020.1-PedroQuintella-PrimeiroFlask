@@ -1,0 +1,47 @@
+ h1{
+ 	color: #644726;
+ 	border-bottom: 2px brown;
+ 	background-color:#eee4d8;
+ 	text-align: center;
+ 	padding: 06px;
+ 	border-bottom: solid 4px #644726;
+ }
+
+ h2{
+ 	color: #644726;
+ 	background-color:#eee4d8;
+ 	text-align: center;
+ 	padding: 06px;
+ }
+ table{
+ 	margin: auto;
+ 	padding-right: 01px;
+ 	padding-left: 01px;
+ 	padding-top: 01px;
+ 	padding-bottom: 01px;
+ }
+ 
+  h2{
+ 	color: #644726;
+ 	background-color:#eee4d8;
+ 	text-align: center;
+ 	padding: 06px;	
+ }
+ 
+ h2{
+ 	color: #644726;
+ 	background-color:#eee4d8;
+ 	text-align: center;
+ 	padding: 06px;
+ }
+
+ h3{
+ 	color: #644726;
+ 	background-color:#eee4d8;
+ 	text-align: center;
+ 	padding: 06px;
+  }
+ body{
+    	font-family: "Arial", "Helvetica", sans-serif;
+    	background-image: url("../../static/img/fundo.jpg");
+ }
